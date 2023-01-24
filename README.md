@@ -2,6 +2,10 @@
 
  Tasks:
 - [x] Create model
-- [ ] Create textures
+- [x] Create textures
 - [ ] Create shader
+
+| Name of Custom Shader    | Description |
+| :---                     | :---   |
+|                          |
  

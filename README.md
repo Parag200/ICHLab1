@@ -1,7 +1,7 @@
 #Intermediate Graphics Lab 1
 
  Tasks:
-- [ ] Create model
+- [x] Create model
 - [ ] Create textures
 - [ ] Create shader
  

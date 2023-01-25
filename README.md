@@ -1,9 +1,9 @@
 #Intermediate Graphics Lab 1
 
  Tasks:
-- ~~[x] Create model~~
-- ~~[x] Create textures~~
-- ~~[x] Create shader~~
+- [x] Create model
+- [x] Create textures
+- [x] Create shader
 
 | Name of Custom Shader    | Description |
 | :---                     | :---   |

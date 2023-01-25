@@ -3,9 +3,11 @@
  Tasks:
 - [x] Create model
 - [x] Create textures
-- [ ] Create shader
+- [x] Create shader
 
 | Name of Custom Shader    | Description |
 | :---                     | :---   |
-|                          |
+| Rim Lightign             | Using the Fresnal effect node and color node,
+|                          | both nodes were put togther into a multiply node which was then 
+|                          | connected to the emission of the Fragment Node
  
